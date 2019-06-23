@@ -37,3 +37,4 @@ def ListAvailablePorts():
     else:
         return AvailablePorts
 
+ListAvailablePorts()
